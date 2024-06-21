@@ -50,7 +50,7 @@ fn main() {
     let mut next_id = 4;
 
     loop {
-        println!("Student Attendance System");
+        println!(" ");
         println!("1. Add new student");
         println!("2. Mark attendance");
         println!("3. Display all students");
